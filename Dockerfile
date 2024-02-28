@@ -27,7 +27,7 @@ RUN pip config set global.index-url http://mirrors.cloud.tencent.com/pypi/simple
 EXPOSE 80
 
 # 将所有子文件夹复制到工作目录中
-COPY */ /app/
+COPY . /app/
 
 
 # 将 FastAPI 应用程序运行在端口 8000
