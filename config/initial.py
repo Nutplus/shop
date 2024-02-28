@@ -1,3 +1,3 @@
-Server_Url = 'http://127.0.0.1:8000'
+Server_Url = 'fzjmzvel.flask-hjzf.5bvd65zg.6jf5e4k5.com'
 Server_ImageUrl = Server_Url + '/get_image'
 # Server_ImageUrl_
